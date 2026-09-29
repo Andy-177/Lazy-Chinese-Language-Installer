@@ -26,7 +26,7 @@ rm -rf ~/.config/nvim/.git
 - Start Neovim!
 ```
 nvim
-```'
+```
 ## Windows
 - Make a backup of your current Neovim files:
 ```
