@@ -38,7 +38,7 @@ Move-Item $env:LOCALAPPDATA\nvim-data $env:LOCALAPPDATA\nvim-data.bak
 ```
 - Clone the starter
 ```
-git clone [https://github.com/LazyVim/starter](https://github.com/Andy-177/Lazy-Chinese-Language-Installer.git) $env:LOCALAPPDATA\nvim
+git clone https://github.com/Andy-177/Lazy-Chinese-Language-Installer.git $env:LOCALAPPDATA\nvim
 ```
 - Remove the .git folder, so you can add it to your own repo later
 ```
